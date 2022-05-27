@@ -1,6 +1,6 @@
 @charset"utf-8";
 
-.wrap div {
+.wrap>div {
     display: flex;
     width: 960px;
     justify-content: space-between;
