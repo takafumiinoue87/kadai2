@@ -18,11 +18,8 @@
 }
 
 .wrap2 div {
-    background: red;
-    width: 300px;
-    height: 300px;
-    text-align: center;
-    margin-bottom: 50px;
+    /*flexを改行するcss*/
+    flex-wrap: wrap;
 }
 
 .wrap3 div {
@@ -30,5 +27,5 @@
     width: 300px;
     height: 300px;
     text-align: center;
-    flex-wrap: wrap;
+    margin-bottom: 50px;
 }
