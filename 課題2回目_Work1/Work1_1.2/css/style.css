@@ -17,12 +17,12 @@
     margin-bottom: 50px;
 }
 
-.wrap2 div {
+.wrap2 {
     /*flexを改行するcss*/
     flex-wrap: wrap;
 }
 
-.wrap3 div {
+.wrap2 div {
     background: red;
     width: 300px;
     height: 300px;
